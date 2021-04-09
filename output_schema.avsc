@@ -1,0 +1,14 @@
+{
+   "type": "record",
+   "name": "cc_output",
+   "fields": [
+      {
+         "name": "id",
+         "type": "int"
+      },
+      {
+         "name": "prediction",
+         "type": "float"
+      }
+   ]
+}
